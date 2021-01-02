@@ -27,5 +27,5 @@ python __init__.py
 * Quick sort
 * Radix sort
 * Counting sort
-* Bucker sort
+* Bucket sort
 * Shell sort  
